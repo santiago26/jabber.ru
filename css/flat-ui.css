@@ -1718,7 +1718,7 @@ textarea,
   border-radius: 6px;
   padding: 14px;
   position: relative;
-  text-align: center; }
+  text-align: left; }
   .tile.tile-hot:before {
     background: url("../images/tile/ribbon.png") 0 0 no-repeat;
     background-size: 82px 82px;
@@ -1830,7 +1830,7 @@ input.todo-search-field {
   .todo-search {
     background-image: "../images/todo/search-2x.png"; } }
 footer {
-  background-color: #eceff1;
+  background-color: white;
   color: #bdc1c5;
   padding: 26px 0; }
   footer a {
