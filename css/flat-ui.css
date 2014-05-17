@@ -1718,7 +1718,7 @@ textarea,
   border-radius: 6px;
   padding: 14px;
   position: relative;
-  text-align: left; }
+  text-align: center; }
   .tile.tile-hot:before {
     background: url("../images/tile/ribbon.png") 0 0 no-repeat;
     background-size: 82px 82px;
